@@ -5,7 +5,7 @@
 
 Hey there! I'm Elânio Bros (Elânio Leal) 😄✋
 
-I'm from Brazil, I'm currently a computer science student, I really like the technology area both in software and in hardware, and I'm currently a web developer focused on backend but also knowing a little about frontend.
+I'm from Brazil, I really like the technology area both in software and in hardware, and I'm currently a web developer focused on backend but also knowing a little about frontend.
 
 ### My Contact
  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/el%C3%A2nio-leal-alves-5503b2186/) 
