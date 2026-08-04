@@ -12,7 +12,7 @@ I'm from Brazil, I really like the technology area both in software and in hardw
 [<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/elaniobros/) 
 [<img src = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">](https://stackoverflow.com/users/13290552/el%c3%a2nio)
 [<img src = "https://img.shields.io/badge/Stack_Overflow_Portugu%C3%AAs-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">](https://pt.stackoverflow.com/users/149196/el%c3%a2nio#)
-[<img src="https://img.shields.io/badge/elaniobros@hotmail-blue?style=for-the-badge&logo=microsoft&logoColor=white" />](mailto:elaniobros@hotmail.com)
+[<img src="https://img.shields.io/badge/elaniobros@hotmail-blue?style=for-the-badge&logo=microsoft&logoColor=white" />](mailto:elaniobros@gmail.com)
 
 ### Currently working 👨‍💻
 <div>
