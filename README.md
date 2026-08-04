@@ -41,7 +41,7 @@ I'm from Brazil, I really like the technology area both in software and in hardw
 
 <a href="https://github.com/Elanio-Bros">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=elanio-bros&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,4691FA,E34F39&title_color=ffffff)
+[![Elanio-Bros GitHub stats](https://github-stats-extended.vercel.app/api?username=elanio-bros&hide_border=true&show_icons=true&include_all_commits=false&count_private=true&line_height=24&text_color=ffffff&icon_color=ffffff&bg_color=0,4691FA,E34F39&title_color=ffffff)](https://github.com/stats-organization/github-stats-extended)
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elanio-bros&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=4&text_color=ffffff&icon_color=ffffff&bg_color=0,4691FA,E34F39&title_color=ffffff)
+![Most used languages](https://github-stats-extended.vercel.app/api/top-langs/?username=elanio-bros&hide=html&hide_border=true&card_width=320&layout=compact&langs_count=4&text_color=ffffff&icon_color=ffffff&bg_color=0,4691FA,E34F39&title_color=ffffff)
 </a>
