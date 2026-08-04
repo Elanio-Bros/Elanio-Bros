@@ -8,11 +8,10 @@ Hey there! I'm Elânio Bros (Elânio Leal) 😄✋
 I'm from Brazil, I really like the technology area both in software and in hardware, and I'm currently a web developer focused on backend but also knowing a little about frontend.
 
 ### My Contact
- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/el%C3%A2nio-leal-alves-5503b2186/) 
-[<img src = "https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/elaniobros/) 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white">](https://www.linkedin.com/in/elanioalves/)
 [<img src = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">](https://stackoverflow.com/users/13290552/el%c3%a2nio)
 [<img src = "https://img.shields.io/badge/Stack_Overflow_Portugu%C3%AAs-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">](https://pt.stackoverflow.com/users/149196/el%c3%a2nio#)
-[<img src="https://img.shields.io/badge/elaniobros@hotmail-blue?style=for-the-badge&logo=microsoft&logoColor=white" />](mailto:elaniobros@gmail.com)
+[<img src="https://img.shields.io/badge/elaniobros@gmail-red?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:elaniobros@gmail.com)
 
 ### Currently working 👨‍💻
 <div>
